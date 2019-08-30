@@ -6,6 +6,7 @@ Just clone this repository and run npm i and then run react-native run-android w
 
 # Dependencies
 
+yarn (package manager)
 react-native cli 
 react-navigation v3
 nodejs 10
