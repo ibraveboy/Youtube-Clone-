@@ -1,0 +1,2 @@
+# Youtube-Clone-
+Youtube Clone build with ReactNative React-Redux Redux-Thunk Using Youtube Data Api v3. There are four screens in this project. First one is home screen, second one is player screen, third one is search screen and fourth screen is for trending videos library tab is still under development. Search component is fully working. Tested with android studio virtual device running Pie with sdk tools version 28.0.3.  
